@@ -106,7 +106,7 @@ btn1.addEventListener('click',()=>{
     inputUsuario.value = ''
 })
 /*
-Função 40222
+Função 4022
 */
 
 const favoritoClicado = (eventoDeClique) => {
